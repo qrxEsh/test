@@ -1,0 +1,35 @@
+﻿#wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#page-wrapper {
+  margin-top: 40px;
+  min-height: 100vh;
+  flex: 1 1 auto;
+}
+.alert.alert-default {
+  margin-top: auto;
+  background-color: black !important;
+}
+.panel-heading{
+  background-color: black !important;
+}
+.pagination a{
+  background-color: rgb(32, 177, 119) !important;
+}
+.panel.panel-default{
+  border: black solid 1px !important;
+  word-wrap: break-word;
+}
+.btn.btn-block.btn-danger{
+  background-color: rgb(59, 40, 127) !important;
+}
+.modal-content{
+  background-color: rgb(0, 0, 0) !important;
+}
+.btn.btn-primary{
+  background-color: rgb(59, 40, 127) !important;
+}
+
