@@ -261,7 +261,7 @@ session_start();
               </div>
 
               <div class="form-group">
-                <input class="form-control" placeholder="Почта" name="ruser_email" type="email" required>
+                <input class="form-control" placeholder="Логин" name="ruser_email" type="text" required>
               </div>
 
               <div class="form-group">
@@ -300,7 +300,7 @@ session_start();
 
 
               <div class="form-group">
-                <input class="form-control" placeholder="Почта" name="user_email" type="email" required>
+                <input class="form-control" placeholder="Логин" name="user_email" type="text" required>
               </div>
 
               <div class="form-group">

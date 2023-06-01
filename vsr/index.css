@@ -1,69 +1,76 @@
 .navbar.navbar-inverse.navbar-fixed-top {
   background-color: black !important;
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 .overlay {
   background-color: rgb(203, 95, 95) !important;
   border-color: yellow;
-  margin:0 auto;
+  margin: 0 auto;
 }
-.btn.btn-warning.btn-lg{
-    background-color: rgb(0, 0, 0) !important;
-    border-color: yellow;
-    margin:0 auto;
+.btn.btn-warning.btn-lg {
+  background-color: rgb(0, 0, 0) !important;
+  border-color: yellow;
+  margin: 0 auto;
 }
-.btn.btn-success.btn-lg{
-    background-color: rgb(0, 0, 0) !important;
-    border-color: yellow;
-    margin:0 auto;
+.btn.btn-success.btn-lg {
+  background-color: rgb(0, 0, 0) !important;
+  border-color: yellow;
+  margin: 0 auto;
 }
-.btn.btn-primary.btn-lg{
-    background-color: rgb(0, 0, 0) !important;
-    border-color: yellow;
-    margin:0 auto;
+.btn.btn-primary.btn-lg {
+  background-color: rgb(0, 0, 0) !important;
+  border-color: yellow;
+  margin: 0 auto;
 }
-.flex-active-slide{
-    border-color: yellow !important;  
-    margin:0 auto;
+.flex-active-slide {
+  border-color: yellow !important;
+  margin: 0 auto;
 }
-.awdawdaw{
-    background-color: rgb(203, 95, 95) !important; 
-    text-align: center;
-    color: black;
-    margin:0 auto;
-    word-wrap: break-word;
-    
+.awdawdaw {
+  background-color: rgb(203, 95, 95) !important;
+  text-align: center;
+  color: black;
+  margin: 0 auto;
+  word-wrap: break-word;
 }
-.zzzz{
-    background-color: rgb(203, 95, 95) !important;
-    height: 414px;
-    width: 1140px;
-    color:white;
-    margin:0 auto;
-
+.awdawdaw > div {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr) !important;
+  width: 100%;
 }
-.aaaa{
-    background-color: rgb(203, 95, 95) !important;
-    height: 700px;
-    width: 1140px;
-    color:black;
-    margin:0 auto;
-    text-align:left;
-
+.awdawdaw > div > div {
+  width: 100%;
+  min-width: 280px;
+  max-width: 280px;
 }
-.modal-content{
-    background-color: red !important;
+.zzzz {
+  background-color: rgb(203, 95, 95) !important;
+  height: 414px;
+  width: 1140px;
+  color: white;
+  margin: 0 auto;
 }
-.btn.btn-md.btn-warning.btn-block{
-    background-color: black !important;
+.aaaa {
+  background-color: rgb(203, 95, 95) !important;
+  height: 700px;
+  width: 1140px;
+  color: black;
+  margin: 0 auto;
+  text-align: left;
 }
-.btn.btn-md.btn-success.btn-block{
-    background-color: black !important;
+.modal-content {
+  background-color: red !important;
 }
-.modal-title{
-    background-color: red !important;
+.btn.btn-md.btn-warning.btn-block {
+  background-color: black !important;
 }
-.close{
-    background-color: black !important;
+.btn.btn-md.btn-success.btn-block {
+  background-color: black !important;
+}
+.modal-title {
+  background-color: red !important;
+}
+.close {
+  background-color: black !important;
 }
